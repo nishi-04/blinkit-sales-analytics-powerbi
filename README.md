@@ -103,7 +103,7 @@ This dashboard helps answer questions such as:
 
 ## 🖼️ Dashboard Preview
 
-![Blinkit Sales Dashboard]("Blinkit_Sales_Dashboard.png")
+![Blinkit Sales Dashboard](./Blinkit_Sales_Dashboard.png)
 
 ## 💡 Key Analytical Skills Demonstrated
 - Data Cleaning
